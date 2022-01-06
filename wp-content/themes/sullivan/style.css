@@ -185,26 +185,26 @@ input::-moz-placeholder { color: #767676; }
 
 @font-face {
 	font-family: 'Charis SIL';
-	src: url( /wp-content/themes/sullivan/assets/fonts/CharisSIL-R.woff);
+	src: url( /wordpress/wp-content/themes/sullivan/assets/fonts/CharisSIL-R.woff);
 }
 
 @font-face {
 	font-family: 'Charis SIL';
 	font-style: italic;
-	src: url( /wp-content/themes/sullivan/assets/fonts/CharisSIL-I.woff);
+	src: url( /wordpress/wp-content/themes/sullivan/assets/fonts/CharisSIL-I.woff);
 }
 
 @font-face {
 	font-family: 'Charis SIL';
 	font-weight: bold;
-	src: url( /wp-content/themes/sullivan/assets/fonts/CharisSIL-B.woff);
+	src: url( /wordpress/wp-content/themes/sullivan/assets/fonts/CharisSIL-B.woff);
 }
 
 @font-face {
 	font-family: 'Charis SIL';
 	font-weight: bold;
 	font-style: italic;
-	src: url( /wp-content/themes/sullivan/assets/fonts/CharisSIL-BI.woff);
+	src: url( /wordpress/wp-content/themes/sullivan/assets/fonts/CharisSIL-BI.woff);
 }
 
 
@@ -415,7 +415,7 @@ img {
 }
 
 .woocommerce-store-notice__dismiss-link {
-	background: url( /wp-content/themes/sullivan/assets/svg/cross-white.svg) no-repeat center;
+	background: url( /wordpress/wp-content/themes/sullivan/assets/svg/cross-white.svg) no-repeat center;
 	background-size: 16px;
 	display: block;
 	height: 44px;
@@ -559,7 +559,7 @@ img {
 }
 
 .header-search label {
-	background: url( /wp-content/themes/sullivan/assets/svg/spyglass-black.svg) no-repeat center;
+	background: url( /wordpress/wp-content/themes/sullivan/assets/svg/spyglass-black.svg) no-repeat center;
 	background-size: 29px auto;
 	cursor: text;
 	margin: 0;
@@ -622,7 +622,7 @@ img {
 }
 
 .compact-search-results .show-all span:after {
-	background: url( /wp-content/themes/sullivan/assets/svg/arrow-right-black.svg) no-repeat center;
+	background: url( /wordpress/wp-content/themes/sullivan/assets/svg/arrow-right-black.svg) no-repeat center;
 	background-size: contain;
 	content: "";
 	display: block;
@@ -715,7 +715,7 @@ img {
 }
 
 .account-toggle:before {
-	background-image: url( /wp-content/themes/sullivan/assets/svg/account-black.svg);
+	background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/account-black.svg);
 }
 
 /* NOT LOGGED IN */
@@ -814,10 +814,10 @@ img {
 	width: 22px;
 }
 
-.account-modal.logged-in a.edit-account:before { background-image: url( /wp-content/themes/sullivan/assets/svg/cog-black.svg); background-size: 17px auto; }
-.account-modal.logged-in a.edit-address:before { background-image: url( /wp-content/themes/sullivan/assets/svg/location-black.svg); background-size: auto 19px; }
-.account-modal.logged-in a.orders:before { background-image: url( /wp-content/themes/sullivan/assets/svg/orders-black.svg); background-size: auto 21px; }
-.account-modal.logged-in a.log-out:before { background-image: url( /wp-content/themes/sullivan/assets/svg/sign-out-arrow-black.svg); background-size: 16px auto; }
+.account-modal.logged-in a.edit-account:before { background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/cog-black.svg); background-size: 17px auto; }
+.account-modal.logged-in a.edit-address:before { background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/location-black.svg); background-size: auto 19px; }
+.account-modal.logged-in a.orders:before { background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/orders-black.svg); background-size: auto 21px; }
+.account-modal.logged-in a.log-out:before { background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/sign-out-arrow-black.svg); background-size: 16px auto; }
 
 
 /* Header Cart Modal ----------------------------- */
@@ -831,7 +831,7 @@ img {
 }
 
 .cart-toggle:before {
-	background-image: url( /wp-content/themes/sullivan/assets/svg/cart-black.svg);
+	background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/cart-black.svg);
 }
 
 .cart-count {
@@ -920,7 +920,7 @@ img {
 }
 
 .site-nav li.menu-item-has-children > a:after {
-	background: url( /wp-content/themes/sullivan/assets/svg/chevron-down-black.svg) no-repeat center;
+	background: url( /wordpress/wp-content/themes/sullivan/assets/svg/chevron-down-black.svg) no-repeat center;
 	background-size: contain;
 	content: "";
 	display: block;
@@ -1137,7 +1137,7 @@ img {
 }
 
 .flex-direction-nav .flex-prev:before {
-	background-image: url( /wp-content/themes/sullivan/assets/svg/arrow-left-white.svg);
+	background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/arrow-left-white.svg);
 }
 
 .flex-direction-nav .flex-next { 
@@ -1146,7 +1146,7 @@ img {
 }
 
 .flex-direction-nav .flex-next:before {
-	background-image: url( /wp-content/themes/sullivan/assets/svg/arrow-right-white.svg);
+	background-image: url( /wordpress/wp-content/themes/sullivan/assets/svg/arrow-right-white.svg);
 }
 
 .flex-direction-nav a:hover {
@@ -2346,7 +2346,7 @@ input[type="url"]:focus {
 }
 
 select {
-	background: #fff url( /wp-content/themes/sullivan/assets/svg/chevron-down-black.svg) no-repeat;
+	background: #fff url( /wordpress/wp-content/themes/sullivan/assets/svg/chevron-down-black.svg) no-repeat;
 	background-position: calc( 100% - 14px ) center;
 	border-radius: 2px;
 	border: 1px solid #e1e1e5;
@@ -2656,7 +2656,7 @@ th {
 }
 
 .page-hero .to-content:before {
-	background: url( /wp-content/themes/sullivan/assets/svg/to-content-arrow.svg) no-repeat center;
+	background: url( /wordpress/wp-content/themes/sullivan/assets/svg/to-content-arrow.svg) no-repeat center;
 	background-size: auto 30px;
 	content: "";
 	display: block;
@@ -3687,13 +3687,13 @@ ul.page-numbers .next { right: 0; }
 	}
 
 	.mobile-search label {
-		background: url( /wp-content/themes/sullivan/assets/svg/spyglass-black.svg) no-repeat center 49%;
+		background: url( /wordpress/wp-content/themes/sullivan/assets/svg/spyglass-black.svg) no-repeat center 49%;
 		background-size: auto 20px;
 		cursor: text;
 	}
 
 	.mobile-search .cancel-search {
-		background: #fff url( /wp-content/themes/sullivan/assets/svg/cross-black.svg) no-repeat center 49%;
+		background: #fff url( /wordpress/wp-content/themes/sullivan/assets/svg/cross-black.svg) no-repeat center 49%;
 		background-size: auto 16px;
 		cursor: pointer;
 		opacity: 0;
@@ -3797,7 +3797,7 @@ ul.page-numbers .next { right: 0; }
 	}
 
 	.menu-toggle-wrapper .sub-nav-toggle:before {
-		background: url( /wp-content/themes/sullivan/assets/svg/chevron-down-black.svg) no-repeat center;
+		background: url( /wordpress/wp-content/themes/sullivan/assets/svg/chevron-down-black.svg) no-repeat center;
 		background-size: 12px auto;
 		content: "";
 		display: block;
