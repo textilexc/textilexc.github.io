@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	《wordpress》的留言	</title>
+	《欣喬物料有限公司》的留言	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>全新的繁體中文 WordPress 網站</description>
-	<lastBuildDate>Sat, 27 Aug 2022 15:22:50 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Thu, 06 Jan 2022 19:38:29 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.1</generator>
-	<item>
-		<title>
-		「WordPress 示範留言者」發佈於〈網站第一篇文章〉的留言		</title>
-		<link>/2022/08/27/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[WordPress 示範留言者]]></dc:creator>
-		<pubDate>Sat, 27 Aug 2022 15:22:50 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
-
-					<description><![CDATA[網站管理員你好，這是一則預留內容留言。
-如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。
-留言者個人頭像來源為 &lt;a href=&quot;https://zh-tw.gravatar.com/&quot; target=&quot;_blank&quot;&gt;Gravatar&lt;/a&gt;。]]></description>
-			<content:encoded><![CDATA[<p>網站管理員你好，這是一則預留內容留言。<br />
-如需開始審閱、編輯及刪除留言，請前往 [控制台] 的 [留言] 頁面進行必要的操作。<br />
-留言者個人頭像來源為 <a href="https://zh-tw.gravatar.com/" target="_blank">Gravatar</a>。</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+</channel>
 </rss>
