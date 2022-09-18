@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	《wordpress》的留言	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	〈網站第一篇文章〉的留言	</title>
+	<atom:link href="/2022/09/18/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/2022/09/18/hello-world/</link>
 	<description>全新的繁體中文 WordPress 網站</description>
 	<lastBuildDate>Sun, 18 Sep 2022 12:54:06 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
 		<title>
-		「WordPress 示範留言者」發佈於〈網站第一篇文章〉的留言		</title>
+		留言者: WordPress 示範留言者		</title>
 		<link>/2022/09/18/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[WordPress 示範留言者]]></dc:creator>
