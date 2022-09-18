@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>未分類 &#8211; wordpress</title>
+	<title>未分類 &#8211; 欣喬物料有限公司</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>全新的繁體中文 WordPress 網站</description>
-	<lastBuildDate>Sun, 18 Sep 2022 12:54:06 +0000</lastBuildDate>
+	<description>欣喬物料有限公司</description>
+	<lastBuildDate>Sun, 18 Sep 2022 13:48:34 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,20 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>網站第一篇文章</title>
-		<link>/2022/09/18/hello-world/</link>
-					<comments>/2022/09/18/hello-world/#comments</comments>
+		<title>範例標題</title>
+		<link>/2022/09/18/%e7%af%84%e4%be%8b%e6%a8%99%e9%a1%8c/</link>
+					<comments>/2022/09/18/%e7%af%84%e4%be%8b%e6%a8%99%e9%a1%8c/#respond</comments>
 		
 		<dc:creator><![CDATA[wordpress]]></dc:creator>
-		<pubDate>Sun, 18 Sep 2022 12:54:06 +0000</pubDate>
+		<pubDate>Sun, 18 Sep 2022 13:48:34 +0000</pubDate>
 				<category><![CDATA[未分類]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">/?p=314</guid>
 
-					<description><![CDATA[歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！]]></description>
-										<content:encoded><![CDATA[
-<p>歡迎使用 WordPress。這是這個網站的第一篇文章，試試為這篇文章進行編輯或直接刪除，然後開始撰寫新文章！</p>
-]]></content:encoded>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/2022/09/18/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>/2022/09/18/%e7%af%84%e4%be%8b%e6%a8%99%e9%a1%8c/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

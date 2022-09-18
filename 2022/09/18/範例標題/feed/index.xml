@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	〈範例頁面〉的留言	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
-	<description>全新的繁體中文 WordPress 網站</description>
-	<lastBuildDate>Sun, 18 Sep 2022 12:54:06 +0000</lastBuildDate>
+	〈範例標題〉的留言	</title>
+	<atom:link href="/2022/09/18/%E7%AF%84%E4%BE%8B%E6%A8%99%E9%A1%8C/feed/" rel="self" type="application/rss+xml" />
+	<link>/2022/09/18/%e7%af%84%e4%be%8b%e6%a8%99%e9%a1%8c/</link>
+	<description>欣喬物料有限公司</description>
+	<lastBuildDate>Sun, 18 Sep 2022 13:48:34 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
